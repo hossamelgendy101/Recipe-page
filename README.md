@@ -28,13 +28,18 @@ Build a recipe page and get it looking as close to the design as possible. The l
 ### Screenshot
 
 <p align="center">
-  <img src="assets/images/screenshot.png" alt="Screenshot of the Simple Omelette Recipe page showing the image, preparation time, ingredients, instructions and nutrition table" width="600">
+  <img src="assets/images/screenshot1.PNG" alt="Project Screenshot" width="600">
 </p>
-
+<p align="center">
+  <img src="assets/images/screenshot2.PNG" alt="Project Screenshot" width="600">
+</p>
+<p align="center">
+  <img src="assets/images/screenshot2.PNG" alt="Project Screenshot" width="600">
+</p>
 ### Links
 
-- GitHub repository: [YOUR-REPO-NAME](https://github.com/hossamelgendy101/YOUR-REPO-NAME)
-- Live site: [YOUR-LIVE-SITE](https://YOUR-LIVE-SITE-URL)
+- GitHub repository: [YOUR-REPO-NAME](https://github.com/hossamelgendy101/Recipe-page)
+- Live site: [YOUR-LIVE-SITE](https://recipepage-eta.vercel.app/)
 
 ## My process
 
